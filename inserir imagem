@@ -1,0 +1,15 @@
+<html>
+    <head>
+     <title> como inserir imagem </title>
+
+     <style type="text/css"
+      <!--
+       body{background-color:beige; font-family:verdena; color:black;font-size;80%}
+      //-->
+     </style>
+    </head>
+    <body>
+       <img src="file:///tmp/guest-papnkn/%C3%81rea%20de%20Trabalho/a/aline-programa-o-main/imagens/96633009-d1818000-1318-11eb-9f1d-7f914f4ccb16.gif" />
+    
+    </body>
+</html>        
